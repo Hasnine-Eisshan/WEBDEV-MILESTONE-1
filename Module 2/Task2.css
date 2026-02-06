@@ -1,0 +1,23 @@
+body{
+    background-color: lightcyan;
+    font-size: larger;
+    font-family: 'Times New Roman', serif;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-style: italic;
+}
+.div1, .div2{
+    background-color: grey;
+    padding-bottom:  30px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.div3{
+    background-color: lightgreen;
+    padding-bottom:  30px;
+    text-align: center;
+    border-radius: 20px;
+}
